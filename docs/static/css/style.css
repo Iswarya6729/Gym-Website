@@ -6,6 +6,7 @@ body{
     background: url('../images/gym image 1.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
+    zoom: 80%;
 }
 
 .left{
