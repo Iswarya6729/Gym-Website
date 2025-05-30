@@ -1,0 +1,83 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background-color: #1a1a1a;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 100%;
+}
+
+.form-group input{
+    text-align: center;
+    justify-content: center;
+    display: block;
+    width: 294px;
+    padding: 5px;
+    border: 2px solid black;
+    margin: 10px auto;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-top: 50px ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input:hover{
+    color: rgba(21, 20, 20, 0.95);
+    background-color: rgb(172, 169, 169);
+}
+
+.btn{
+    text-align: center;
+    justify-content: center;
+    display: block;
+    width: 294px;
+    padding: 15px;
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    margin: 10px auto;
+    font-size: 40px;
+    border-radius: 5px;
+    margin-top: 48px ;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.btn:hover{
+    background-color: rgb(25, 232, 10);
+    color: black;
+}
+
+.service-card{
+
+    margin: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50%;
+    font-size: 25px;
+
+}
+
+.container{
+    font-size: 35px;
+    justify-content: center;
+    text-align: center;
+}
+
+.container1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+    margin-left: 10%;
+}
+
+.container2{
+    margin-top: -550px;
+  padding-top: -100px;
+  display: block;
+  margin-right: 100px;
+  padding-left: 90px;
+  width: 700px;
+  height: 500px;
+}

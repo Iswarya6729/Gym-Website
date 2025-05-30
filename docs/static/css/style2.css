@@ -1,0 +1,50 @@
+body{
+    background-color: #1a1a1a;  /* Dark background */
+  color: white;  
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.container{
+    text-align: center;
+    font-size: 40px;
+
+}
+.about1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.our-mission, .why-choose-us{
+font-size: 30px;
+    text-align: center;
+}
+
+.img1 {
+  margin-top: -300px;   /* Moves image up */
+  position: relative;   /* Required for 'left' to work */
+  left: 100px;          /* Moves image to the right */
+}
+
+
+.img2 {
+  position: relative;
+  left: 1150px;   /* Moves image to the right */
+  top: -260px;    /* Moves image upward */
+}
+
+.list-container {
+  display: flex;
+  justify-content: center;  /* Horizontally center the list */
+}
+
+.centered-list {
+  list-style-position: inside;  /* Brings bullets inside for alignment */
+  text-align: left;             /* Aligns text neatly */
+}
+
+.about2{
+     font-size: 30px;
+    text-align: center;
+    margin-top: -230px;
+}
